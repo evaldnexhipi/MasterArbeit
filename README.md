@@ -31,6 +31,7 @@ If you find this work useful for your research, please cite it using the followi
   address      = {Munich, Germany},
   month        = {October},
 }
+```
 
 ## Copyright
 Copyright © 2023 Evald Nexhipi 
